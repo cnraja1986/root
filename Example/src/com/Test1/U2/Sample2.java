@@ -1,4 +1,4 @@
-package com.Test1.UI;
+package com.Test1.U2;
 
 public class Sample2 {
 
